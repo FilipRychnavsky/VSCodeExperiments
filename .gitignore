@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+# FR Weitere Dateien, die nicht notwendig sind
+*.pdb
+*.ilk
